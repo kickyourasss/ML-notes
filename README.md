@@ -1,7 +1,8 @@
 ### 学习进度
 - Week 1 ✔
-Video: VideoWhat is a Neural Network? 
+
 Quiz 100/100💪
+
 [Heroes of Deep Learning (Optional)](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview)
 
 - Week2
