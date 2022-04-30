@@ -1,14 +1,11 @@
 ### 学习进度
-- Week 1 ✔
+Week 1 ✔
+- Quiz 100/100💪
+- [Heroes of Deep Learning (Optional)](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview)
+Week2
 
-Quiz 100/100💪
-
-[Heroes of Deep Learning (Optional)](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview)
-
-- Week2
-
-- Week3
-- Week4
+Week3
+Week4
 # ML-notes
 
 ### 西瓜书 第三章 2022/03/22
