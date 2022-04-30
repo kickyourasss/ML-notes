@@ -1,3 +1,29 @@
+### 学习进度
+Week 1
+Video: VideoWhat is a Neural Network? ✔
+. Duration: 7 minutes7 min
+
+Video: VideoSupervised Learning with Neural Networks ✔
+. Duration: 8 minutes8 min
+
+Video: VideoWhy is Deep Learning taking off?
+. Duration: 10 minutes10 min
+
+Video: VideoAbout this Course
+. Duration: 2 minutes2 min
+
+Ungraded External Tool: Ungraded External ToolJoin us on Discourse!
+. Duration: 1 hour1h
+
+Reading: ReadingFrequently Asked Questions
+. Duration: 10 minutes10 min
+
+Lecture Notes (Optional)
+
+Quiz
+
+Heroes of Deep Learning (Optional)
+
 # ML-notes
 
 ### 西瓜书 第三章 2022/03/22
