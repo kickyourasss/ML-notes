@@ -47,3 +47,18 @@ Unstructured Data: each of the feature do not has well-defined meaning
 
 features of image: pixels values; features of text: individual words.
 
+## Why is Deep Learning taking off?
+
+<img src="https://user-images.githubusercontent.com/72336341/166120751-264e3b50-e1aa-4e24-bd71-88aa36c0e38b.png" width="500"> 
+
+If you have a large amount of data, make use of them to train a large model to make use of your data well.
+
+<img src="https://user-images.githubusercontent.com/72336341/166120805-d6fbe075-be85-4827-a546-ab1c731172f9.png" width="200"> 
+
+
+In sigmoid function, in region①②，gradient is close to 0, in gradient descend, the parameters will be updated very slow.
+In ReLU function, the gradient for all >0 input is 1, the gradient is less likely to shrink to 0 in gradient descent. So gradient descend will work faster using ReLU.  
+
+Cycle of developing a NN:
+
+<img src="https://user-images.githubusercontent.com/72336341/166120916-b037c437-96e8-4c73-9c6e-7ff206caaabb.png" width="200"> 
