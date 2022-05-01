@@ -56,7 +56,7 @@ If you have a large amount of data, make use of them to train a large model to m
 <img src="https://user-images.githubusercontent.com/72336341/166120805-d6fbe075-be85-4827-a546-ab1c731172f9.png" width="200"> 
 
 
-In sigmoid function, in region①②，gradient is close to 0, in gradient descend, the parameters will be updated very slow. (See [NNDL book page 81])(https://nndl.github.io/nndl-book.pdf)
+In sigmoid function, in region①②，gradient is close to 0, in gradient descend, the parameters will be updated very slow (See [NNDL book page 81](https://nndl.github.io/nndl-book.pdf)).
 In ReLU function, the gradient for all >0 input is 1, the gradient is less likely to shrink to 0 in gradient descent. So gradient descend will work faster using ReLU.  
 
 Cycle of developing a NN:
