@@ -109,6 +109,4 @@ In this class, in Python, we use **dvar** to represent **dFinalOutputVar/dvar** 
 
 <img src="https://user-images.githubusercontent.com/72336341/166226531-d2172774-a8a5-453c-8460-6db758a6a383.png" width="300"> 
 
-<img src="https://user-images.githubusercontent.com/72336341/166226531-d2172774-a8a5-453c-8460-6db758a6a383.png" width="300"> 
-
-![Uploading image.png…]()
+<img src="https://user-images.githubusercontent.com/72336341/166227245-7bb25bd2-3d44-4e80-bb0b-599a0c0cb220.png" width="500"> 
