@@ -59,7 +59,7 @@ If you have a large amount of data, make use of them to train a large model to m
 In sigmoid function, in region①②，gradient is close to 0, in gradient descend, the parameters will be updated very slow (See [NNDL book page 81](https://nndl.github.io/nndl-book.pdf)).
 In ReLU function, the gradient for all >0 input is 1, the gradient is less likely to shrink to 0 in gradient descent. So gradient descend will work faster using ReLU.  
 
-Cycle of developing a NN🔤
+Cycle of developing a NN
 
 <img src="https://user-images.githubusercontent.com/72336341/166120916-b037c437-96e8-4c73-9c6e-7ff206caaabb.png" width="200"> 
 
@@ -112,6 +112,8 @@ In this class, in Python, we use **dvar** to represent **dFinalOutputVar/dvar** 
 <img src="https://user-images.githubusercontent.com/72336341/166227245-7bb25bd2-3d44-4e80-bb0b-599a0c0cb220.png" width="500"> 
 
 ## Gradient Descent on m Examples
+
+<img src="https://user-images.githubusercontent.com/72336341/166230125-6567302c-0cf8-4e02-9abb-aa7ecddfea98.png" width="500"> 
 
 <img src="https://user-images.githubusercontent.com/72336341/166228979-b3a1f0d2-1a59-41cc-9785-efa60c6769db.png" width="600"> 
 
