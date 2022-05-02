@@ -110,3 +110,13 @@ In this class, in Python, we use **dvar** to represent **dFinalOutputVar/dvar** 
 <img src="https://user-images.githubusercontent.com/72336341/166226531-d2172774-a8a5-453c-8460-6db758a6a383.png" width="300"> 
 
 <img src="https://user-images.githubusercontent.com/72336341/166227245-7bb25bd2-3d44-4e80-bb0b-599a0c0cb220.png" width="500"> 
+
+## Gradient Descent on m Examples
+
+<img src="https://user-images.githubusercontent.com/72336341/166228979-b3a1f0d2-1a59-41cc-9785-efa60c6769db.png" width="600"> 
+
+everything on the slide implements just one single step of gradient descent
+
+Here we use dw_1 and dw_2 and db as accumulators. After for-loop, dw_1 is equal to the derivative of your overall cost function with respect to w_1 and similarly for dw_2 (if it is not clear, see again the formula for dJ/dw_i！). So dw_1 and dw_2 do not have a superscript i. Whereas dz_i have superscript  here, this was dz with respect to just one single training example i.
+
+**Vectorization** techniques will elinimates for-loops and simplify the code (next video)
