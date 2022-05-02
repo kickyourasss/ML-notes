@@ -98,7 +98,17 @@ Gradient descent starts at that initial point and then takes a step in the steep
 Derivatives of final output is computed in right-to-left way.
 
 <img src="https://user-images.githubusercontent.com/72336341/166225533-cd0bcda5-2b1a-4bc0-bfd3-5ec33f001000.png" width="500"> 
-we will use da to mean dJ/da in python. In genral, **in this class, we use dvar to represent dFinalOutputVar/dvar the derivative of a FinalOutputVariale w.r.t. intermediate quantities var.**
+we will use da to mean dJ/da in python. 
+
+In this class, in Python, we use **dvar** to represent **dFinalOutputVar/dvar** the derivative of a FinalOutputVariale w.r.t. intermediate quantities var.
 
 <img src="https://user-images.githubusercontent.com/72336341/166225850-00d72f1c-cd90-4541-a6ff-aa7d645dc2d3.png" width="500"> 
 
+
+## Logistic Regression Gradient Descent
+
+<img src="https://user-images.githubusercontent.com/72336341/166226531-d2172774-a8a5-453c-8460-6db758a6a383.png" width="300"> 
+
+<img src="https://user-images.githubusercontent.com/72336341/166226531-d2172774-a8a5-453c-8460-6db758a6a383.png" width="300"> 
+
+![Uploading image.png…]()
