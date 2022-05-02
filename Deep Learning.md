@@ -122,3 +122,8 @@ everything on the slide implements just one single step of gradient descent
 Here we use dw_1 and dw_2 and db as accumulators. After for-loop, dw_1 is equal to the derivative of your overall cost function with respect to w_1 and similarly for dw_2 (if it is not clear, see again the formula for dJ/dw_i！). So dw_1 and dw_2 do not have a superscript i. Whereas dz_i have superscript  here, this was dz with respect to just one single training example i.
 
 **Vectorization** techniques will elinimates for-loops and simplify the code (next video)
+
+
+## Python and Vectorization 
+
+https://www.coursera.org/learn/neural-networks-deep-learning/lecture/NYnog/vectorization
