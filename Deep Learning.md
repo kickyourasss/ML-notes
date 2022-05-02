@@ -111,9 +111,11 @@ In this class, in Python, we use **dvar** to represent **dFinalOutputVar/dvar** 
 
 <img src="https://user-images.githubusercontent.com/72336341/166227245-7bb25bd2-3d44-4e80-bb0b-599a0c0cb220.png" width="500"> 
 
-## Gradient Descent on m Examples
+## Gradient Descent on m Examples \[🤔❓：have doubts here]
 
 <img src="https://user-images.githubusercontent.com/72336341/166230125-6567302c-0cf8-4e02-9abb-aa7ecddfea98.png" width="500"> 
+
+## **Question: 🤔❓, why d()/dw1 = dw_i - (x_i, y_i)** 
 
 <img src="https://user-images.githubusercontent.com/72336341/166228979-b3a1f0d2-1a59-41cc-9785-efa60c6769db.png" width="600"> 
 
