@@ -128,4 +128,12 @@ Here we use dw_1 and dw_2 and db as accumulators. After for-loop, dw_1 is equal 
 
 ## Python and Vectorization 
 
-https://www.coursera.org/learn/neural-networks-deep-learning/lecture/NYnog/vectorization
+Vectorization can significantly speed up your code. 
+
+The rule of thumb is whenever possible, avoid using explicit for loops.
+
+![image](https://user-images.githubusercontent.com/72336341/168420288-e2365e5d-3a2f-4484-baef-349021dc6755.png)
+
+A lot of scaleable deep learning implementations are done on a GPU(graphics processing unit). Demos we did in the Jupiter notebook where actually on the CPU. And it turns out that both GPU and CPU have parallelization instructions. They're sometimes called SIMD instructions. This stands for a single instruction multiple data. If you use built-in functions such as this np.function or other functions that don't require you explicitly implementing a for loop. It enables Phyton Pi to take much better advantage of parallelism to do your computations much faster.  This is true both computations on CPUs and computations on GPUs. It's just that GPUs are remarkably good at these SIMD calculations but CPU is actually also not too bad at that. 
+
+
